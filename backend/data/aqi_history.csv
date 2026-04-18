@@ -1,0 +1,75 @@
+city,aqi,numericAQI,category,mainPollutant,time
+Bengaluru,2,100,Fair,co,2025-11-05T13:05:34.630Z
+mysore,2,100,Fair,co,2025-11-05T13:05:54.169Z
+bengaluru,2,100,Fair,co,2025-11-05T13:06:08.953Z
+mysore,2,100,Fair,co,2025-11-05T13:06:26.406Z
+Bengaluru,2,100,Fair,co,2025-11-05T13:15:54.274Z
+mysore,2,100,Fair,co,2025-11-05T13:16:04.628Z
+delhi,3,150,Moderate,co,2025-11-05T13:17:24.800Z
+Delhi,3,150,Moderate,co,2025-11-05T13:17:57.544Z
+Delhi,3,150,Moderate,co,2025-11-05T13:25:35.837Z
+New york,2,100,Fair,co,2025-11-05T13:27:03.659Z
+Ramanagara,2,100,Fair,co,2025-11-05T13:27:33.330Z
+China,5,250,Very Poor,co,2025-11-05T13:33:43.322Z
+Bengaluru,2,100,Fair,co,2025-11-05T13:35:38.107Z
+Jammu,3,150,Moderate,co,2025-11-05T13:37:51.651Z
+Bengaluru,2,100,Fair,co,2025-11-05T13:44:22.050Z
+Chennai ,3,150,Moderate,co,2025-11-05T13:44:38.213Z
+Tokyo,2,100,Fair,co,2025-11-05T13:45:19.554Z
+Japan,1,50,Good,co,2025-11-05T13:47:23.579Z
+America,2,100,Fair,co,2025-11-05T13:53:31.379Z
+America,2,100,Fair,co,2025-11-05T13:53:47.723Z
+Goa,1,50,Good,co,2025-11-05T13:54:17.970Z
+Bengaluru,2,100,Fair,co,2025-11-05T14:00:13.894Z
+Nepal,3,150,Moderate,co,2025-11-05T14:00:36.435Z
+Bengaluru,2,100,Fair,co,2025-11-05T14:04:45.117Z
+Punjab,4,200,Poor,co,2025-11-05T14:05:18.040Z
+Gujarat,3,150,Moderate,co,2025-11-05T14:05:42.191Z
+Rajasthan,4,200,Poor,co,2025-11-05T14:06:00.219Z
+Bihar,2,100,Fair,co,2025-11-05T14:06:21.943Z
+Russia,2,100,Fair,co,2025-11-05T14:06:38.625Z
+Bengaluru,3,150,Moderate,co,2025-11-06T21:24:02.215Z
+Bengaluru,3,150,Moderate,co,2025-11-06T21:24:28.099Z
+Delhi,3,150,Moderate,co,2025-11-06T21:24:48.713Z
+Guwahati,3,150,Moderate,co,2025-11-06T21:24:59.597Z
+Mandya,5,250,Very Poor,co,2025-11-07T03:08:15.882Z
+Imphal,2,100,Fair,co,2025-11-07T03:08:46.391Z
+Bengaluru,3,150,Moderate,co,2025-11-07T04:52:50.397Z
+Bengaluru,3,150,Moderate,co,2025-11-08T03:07:27.648Z
+Bengaluru,2,100,Fair,co,2025-11-08T07:31:21.338Z
+Bengaluru,3,150,Moderate,co,2025-11-08T07:33:29.566Z
+Bengaluru,3,150,Moderate,co,2025-11-08T07:40:49.250Z
+Bengaluru,3,150,Moderate,co,2025-11-08T07:47:13.990Z
+Bengaluru,3,150,Moderate,co,2025-11-08T07:48:21.632Z
+Delhi,4,200,Poor,co,2025-11-08T07:49:47.277Z
+Sikkim,5,250,Very Poor,co,2025-11-08T07:50:15.822Z
+Amazon,1,50,Good,co,2025-11-08T07:50:28.726Z
+Bengaluru,3,150,Moderate,co,2025-11-08T07:52:23.449Z
+Bengaluru,3,150,Moderate,co,2025-11-08T07:57:18.155Z
+Ludhiana,4,200,Poor,co,2025-11-08T07:59:52.840Z
+Secunderabad,3,150,Moderate,co,2025-11-08T08:02:40.058Z
+Bengaluru,3,150,Moderate,co,2025-11-08T08:07:24.243Z
+Patna,4,200,Poor,co,2025-11-08T08:11:11.185Z
+Bengaluru,3,150,Moderate,co,2025-11-08T08:11:38.309Z
+Bengaluru,3,150,Moderate,co,2025-11-08T08:12:05.877Z
+Dharwad,3,150,Moderate,co,2025-11-08T08:30:25.246Z
+Mandya,4,200,Poor,co,2025-11-08T09:07:08.685Z
+Bidar,1,50,Good,co,2025-11-08T09:07:25.471Z
+Bengaluru,3,150,Moderate,co,2025-11-08T09:32:51.880Z
+Bengaluru,3,150,Moderate,co,2025-11-08T10:23:13.050Z
+Kozhikode,2,100,Fair,co,2025-11-08T12:27:34.753Z
+Dehradun,5,250,Very Poor,co,2025-11-08T12:34:04.280Z
+Bengaluru,3,150,Moderate,co,2025-11-08T13:04:36.009Z
+Bengaluru,3,150,Moderate,co,2025-11-08T13:04:36.670Z
+Dadra,4,200,Poor,co,2025-11-08T15:14:09.942Z
+Noida,4,200,Poor,co,2025-11-08T15:14:27.677Z
+Hassan,4,200,Poor,co,2025-11-09T05:59:53.683Z
+Bengaluru,3,150,Moderate,co,2025-11-09T08:05:27.373Z
+Agra,4,200,Poor,co,2025-11-09T10:38:35.290Z
+Bidar,1,50,Good,co,2025-11-09T10:38:52.083Z
+Bengaluru,3,150,Moderate,co,2025-11-09T18:16:40.964Z
+Bidar,1,50,Good,co,2025-11-10T03:05:44.365Z
+Bengaluru,4,200,Poor,co,2025-11-10T04:22:49.345Z
+Bidar,1,50,Good,co,2025-11-10T04:59:59.150Z
+Delhi,5,250,Very Poor,co,2025-11-10T05:00:42.979Z
+Bidar,1,50,Good,co,2025-11-10T05:29:27.932Z

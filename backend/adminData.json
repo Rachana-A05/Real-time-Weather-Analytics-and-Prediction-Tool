@@ -1,0 +1,45 @@
+{
+  "apiKeys": {
+    "openweathermap": {
+      "key": "ef851b5c005c4f70f5f3d000496fb200",
+      "addedAt": "2025-11-10T05:31:00.303Z",
+      "lastValidated": "2025-11-10T05:31:00.303Z",
+      "isValid": true
+    },
+    "weatherapi": {
+      "key": "3d04575e6c574bbca3c130410250811",
+      "addedAt": "2025-11-10T01:24:21.199Z",
+      "lastValidated": "2025-11-10T01:24:21.199Z",
+      "isValid": true
+    }
+  },
+  "roles": [
+    {
+      "id": 1,
+      "role": "Administrator",
+      "permissions": [
+        "all",
+        "create"
+      ],
+      "updatedAt": "2025-11-06T17:09:45.865Z"
+    },
+    {
+      "id": 2,
+      "role": "Viewer",
+      "permissions": [
+        "view"
+      ],
+      "userCount": 0,
+      "createdAt": "2025-11-06T17:23:10.175Z"
+    }
+  ],
+  "settings": {
+    "defaultApi": "weatherapi",
+    "refreshInterval": 300,
+    "locations": [
+      "Bengaluru",
+      "Mandya",
+      "Mysuru"
+    ]
+  }
+}

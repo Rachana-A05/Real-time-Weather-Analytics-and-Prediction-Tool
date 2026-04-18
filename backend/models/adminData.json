@@ -1,0 +1,30 @@
+{
+  "apiKeys": {
+    "openweathermap": {
+      "key": "ba38990e1b2d43fd2d84bb5094606897",
+      "addedAt": "2025-11-01T12:49:24.889Z",
+      "lastValidated": "2025-11-01T12:49:24.889Z",
+      "isValid": true
+    }
+  },
+  "roles": [
+    {
+      "id": 1,
+      "role": "Administrator",
+      "permissions": [
+        "all"
+      ],
+      "userCount": 1,
+      "updatedAt": "2025-11-01T06:34:12.857Z"
+    }
+  ],
+  "settings": {
+    "defaultApi": "openweathermap",
+    "refreshInterval": 300,
+    "locations": [
+      "Bangalore",
+      "Mumbai",
+      "Delhi"
+    ]
+  }
+}
