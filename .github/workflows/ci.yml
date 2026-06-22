@@ -30,10 +30,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Use Node.js 18.x
+      - name: Use Node.js 20.x
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
           cache: 'npm'
           cache-dependency-path: ${{ matrix.working-directory }}/package-lock.json
 
@@ -73,10 +73,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       
-      - name: Use Node.js 18.x
+      - name: Use Node.js 20.x
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
+          cache: 'npm'
+          cache-dependency-path: ${{ matrix.working-directory }}/package-lock.json
       
       - name: Install dependencies
         working-directory: ${{ matrix.working-directory }}
@@ -108,10 +110,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       
-      - name: Use Node.js 18.x
+      - name: Use Node.js 20.x
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
+          cache: 'npm'
+          cache-dependency-path: ${{ matrix.working-directory }}/package-lock.json
       
       - name: Install dependencies
         working-directory: ${{ matrix.working-directory }}
@@ -148,10 +152,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       
-      - name: Use Node.js 18.x
+      - name: Use Node.js 20.x
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
+          cache: 'npm'
+          cache-dependency-path: ${{ matrix.working-directory }}/package-lock.json
       
       - name: Install dependencies
         working-directory: ${{ matrix.working-directory }}
@@ -174,10 +180,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Use Node.js 18.x
+      - name: Use Node.js 20.x
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
 
       - name: Backend - Install dependencies
         working-directory: backend
@@ -228,11 +234,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Use Node.js 18.x
+      - name: Use Node.js 20.x
         uses: actions/setup-node@v4
         with:
-          node-version: 18
-          cache: 'npm'
+          node-version: 20
 
       - name: Build Backend
         working-directory: backend
