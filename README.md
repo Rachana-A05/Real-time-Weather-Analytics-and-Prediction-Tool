@@ -321,6 +321,6 @@ For queries related to this project, please contact the team members through the
 **Project Repository:** [GitHub Link](https://github.com/pestechnology/PESU_RR_AIML_D_P23_Real_time_Weather_Analytics_and_Prediction_Tool_Team-4Cast)
 
 **Course Code:** UE23CS341A  
-**Institution:** PES University - RR Campus  
+**Institution:** PES University - RR Campus 
 **Department:** AIML - Section D  
 **Year:** 2025 (5th Semester)
